@@ -1,0 +1,68 @@
+(3/21/2019 12:35:35 PM) Error Line : 17
+Error Description : Unable to find Link. ‘Search Criteria’ did not match.
+(3/21/2019 12:43:00 PM) Error Line : 17
+Error Description : Unable to find Link. ‘Search Criteria’ did not match.
+(3/21/2019 12:45:52 PM) Error Line : 37
+Error Description : Unable to find Link. ‘Search Criteria’ did not match.
+(3/21/2019 12:47:27 PM) Error Line : 37
+Error Description : Unable to find Link. ‘Search Criteria’ did not match.
+(3/21/2019 12:49:48 PM) Error Line : 21
+Error Description : Cannot find any open spreadsheet command using session name "S2"
+(3/21/2019 1:01:06 PM) Error Line : 64
+Error Description : Exception from HRESULT: 0x800AC472
+(3/21/2019 2:08:19 PM) Error Line : 64
+Error Description : Unable to find StaticText. ‘Search Criteria’ did not match.
+(3/21/2019 2:21:39 PM) Error Line : 72
+Error Description : Unable to find 'newComment' TextBox. ‘Search Criteria’ did not match.
+(3/21/2019 2:25:58 PM) Error Line : 73
+Error Description : Unable to find 'newComment' TextBox. ‘Search Criteria’ did not match.
+(3/21/2019 2:31:47 PM) Error Line : 73
+Error Description : Unable to find 'newComment' TextBox. ‘Search Criteria’ did not match.
+(3/21/2019 2:37:12 PM) Error Line : 74
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:40:40 PM) Error Line : 74
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:42:26 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:51:47 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:55:10 PM) Error Line : 79
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:57:51 PM) Error Line : 78
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 2:59:58 PM) Error Line : 79
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:05:36 PM) Error Line : 76
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:10:39 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:16:46 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:18:15 PM) Error Line : 82
+Error Description : Unable to find 'newComment' TextBox. ‘Search Criteria’ did not match.
+(3/21/2019 3:22:41 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:24:17 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:26:42 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update/425875' that was open during recording.
+(3/21/2019 3:32:06 PM) Error Line : 65
+Error Description : Unable to find StaticText. ‘Search Criteria’ did not match.
+(3/21/2019 3:33:51 PM) Error Line : 83
+Error Description : Unable to find 'newComment' TextBox. ‘Search Criteria’ did not match.
+(3/21/2019 3:36:42 PM) Error Line : 75
+Error Description : Cannot find window or application titled 'https://acme-test.uipath.com/work-items/update*' that was open during recording.
+(3/21/2019 3:40:40 PM) Error Line : 12
+Error Description : Cannot find window or application titled 'ACME System 1 - Account - Log In - Internet Explorer' that was open during recording.
+(3/21/2019 3:41:42 PM) Error Line : 65
+Error Description : Unable to find StaticText. ‘Search Criteria’ did not match.
+(3/21/2019 3:44:20 PM) Error Line : 65
+Error Description : Unable to find StaticText. ‘Search Criteria’ did not match.
+(3/21/2019 3:46:42 PM) Error Line : 75
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/21/2019 3:50:34 PM) Error Line : 66
+Error Description : Unable to perform 'GetProperty' action. 
+(3/21/2019 3:52:12 PM) Error Line : 66
+Error Description : Unable to perform 'GetProperty' action. 
+(3/21/2019 3:54:20 PM) Error Line : 72
+Error Description : Unable to perform 'GetProperty' action. 

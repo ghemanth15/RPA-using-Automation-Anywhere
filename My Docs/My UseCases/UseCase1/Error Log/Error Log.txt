@@ -1,0 +1,4 @@
+(3/11/2019 12:57:31 PM) Error Line : 6
+Error Description : Unable to create a file as the file 'C:\Users\internship\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\My UseCases\UseCase1\Log Details\LogFile.txt' is already exist.
+(3/11/2019 12:58:18 PM) Error Line : 7
+Error Description : Unable to create folder as the folder 'C:\Users\internship\Desktop\My UseCase1' is already exist.
