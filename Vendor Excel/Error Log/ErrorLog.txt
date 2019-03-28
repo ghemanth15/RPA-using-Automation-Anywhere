@@ -1,0 +1,58 @@
+(3/19/2019 2:36:38 PM) Error Line : 12
+Error Description : Cannot find window or application titled 'ACME System 1 - Account - Log In - Internet Explorer' that was open during recording.
+(3/19/2019 2:39:45 PM) Error Line : 12
+Error Description : Cannot find window or application titled 'ACME System 1 - Account - Log In - Internet Explorer' that was open during recording.
+(3/19/2019 2:56:38 PM) Error Line : 17
+Error Description : Task is stopped by user.
+(3/19/2019 2:59:55 PM) Error Line : 25
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:02:11 PM) Error Line : 18
+Error Description : Task is stopped by user.
+(3/19/2019 3:05:14 PM) Error Line : 17
+Error Description : The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+(3/19/2019 3:10:18 PM) Error Line : 17
+Error Description : Task is stopped by user.
+(3/19/2019 3:17:12 PM) Error Line : 25
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:28:25 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:29:24 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:33:31 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:35:37 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:38:42 PM) Error Line : 31
+Error Description : Task is stopped by user.
+(3/19/2019 3:42:57 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:45:21 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:54:19 PM) Error Line : 27
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 3:58:34 PM) Error Line : 28
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 4:01:25 PM) Error Line : 31
+Error Description : Task is stopped by user.
+(3/19/2019 4:40:39 PM) Error Line : 29
+Error Description : Unable to perform 'SetText' action. 
+(3/19/2019 4:50:30 PM) Error Line : 12
+Error Description : Cannot find window or application titled 'ACME System 1 - Account - Log In - Internet Explorer' that was open during recording.
+(3/19/2019 5:03:00 PM) Error Line : 32
+Error Description : Task is stopped by user.
+(3/19/2019 5:04:16 PM) Error Line : 50
+Error Description : Cannot find any open spreadsheet command using session name "S5"
+(3/19/2019 5:26:03 PM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 5:27:36 PM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/19/2019 5:35:15 PM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/21/2019 11:38:28 AM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/21/2019 11:42:36 AM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.
+(3/21/2019 11:46:53 AM) Error Line : 33
+Error Description : Task is stopped by user.
+(3/21/2019 11:49:43 AM) Error Line : 29
+Error Description : Internet Explorer Taking too long time to load the page.

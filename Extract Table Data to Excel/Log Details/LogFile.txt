@@ -1,0 +1,47 @@
+(3/12/2019 12:52:02 PM) Bot Execution starts here
+(3/12/2019 12:52:03 PM) Username and password have been extracted
+(3/12/2019 12:52:05 PM) Opened the browser
+(3/12/2019 12:52:06 PM) Logged into the site
+(3/12/2019 12:52:08 PM) Table extracted
+(3/12/2019 12:52:12 PM) Table data is copied to excel
+(3/12/2019 12:53:58 PM) Bot Execution starts here
+(3/12/2019 12:53:59 PM) Username and password have been extracted
+(3/12/2019 12:54:01 PM) Opened the browser
+(3/12/2019 12:54:56 PM) Bot Execution starts here
+(3/12/2019 12:54:57 PM) Username and password have been extracted
+(3/12/2019 12:54:58 PM) Opened the browser
+(3/12/2019 12:54:59 PM) Logged into the site
+(3/12/2019 12:55:02 PM) Table extracted
+(3/12/2019 12:55:06 PM) Table data is copied to excel
+(3/12/2019 12:55:41 PM) Bot Execution starts here
+(3/12/2019 12:55:42 PM) Username and password have been extracted
+(3/12/2019 12:55:43 PM) Opened the browser
+(3/12/2019 12:55:44 PM) Logged into the site
+(3/12/2019 12:55:46 PM) Table extracted
+(3/12/2019 12:55:50 PM) Table data is copied to excel
+(3/12/2019 12:56:37 PM) Bot Execution starts here
+(3/12/2019 12:56:38 PM) Username and password have been extracted
+(3/12/2019 12:56:40 PM) Opened the browser
+(3/12/2019 12:56:41 PM) Logged into the site
+(3/12/2019 12:56:43 PM) Table extracted
+(3/12/2019 12:56:47 PM) Table data is copied to excel
+(3/12/2019 12:57:17 PM) Bot Execution starts here
+(3/12/2019 12:57:18 PM) Username and password have been extracted
+(3/12/2019 12:57:19 PM) Opened the browser
+(3/12/2019 12:57:33 PM) Bot Execution starts here
+(3/12/2019 12:57:34 PM) Username and password have been extracted
+(3/12/2019 12:57:36 PM) Opened the browser
+(3/12/2019 12:57:37 PM) Logged into the site
+(3/12/2019 12:57:39 PM) Table extracted
+(3/12/2019 12:57:44 PM) Table data is copied to excel
+(3/12/2019 2:14:18 PM) Bot Execution starts here
+(3/12/2019 2:14:19 PM) Username and password have been extracted
+(3/12/2019 2:14:22 PM) Opened the browser
+(3/14/2019 11:02:39 AM) Bot Execution starts here
+(3/14/2019 11:02:40 AM) Username and password have been extracted
+(3/14/2019 11:02:42 AM) Opened the browser
+(3/19/2019 10:54:10 AM) Bot Execution starts here
+(3/19/2019 10:54:12 AM) Username and password have been extracted
+(3/19/2019 10:54:15 AM) Opened the browser
+(3/19/2019 10:54:20 AM) Logged into the site
+(3/19/2019 10:54:24 AM) Table extracted

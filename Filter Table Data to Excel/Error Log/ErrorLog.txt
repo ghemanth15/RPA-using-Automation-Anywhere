@@ -1,0 +1,10 @@
+(3/19/2019 11:52:40 AM) Error Line : 12
+Error Description : Unable to perform 'SetText' action. 
+(3/19/2019 12:04:48 PM) Error Line : 19
+Error Description : The Variable 'vCount' does not exist.
+(3/19/2019 12:06:26 PM) Error Line : 20
+Error Description : The Variable 'vCount' does not exist.
+(3/19/2019 12:22:36 PM) Error Line : 56
+Error Description : Cannot find any open spreadsheet command using session name "S3"
+(3/19/2019 12:33:16 PM) Error Line : 65
+Error Description : Cannot find any open spreadsheet command using session name "S3"

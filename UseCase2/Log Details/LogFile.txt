@@ -1,0 +1,4 @@
+(3/11/2019 2:41:18 PM) Bot Execution starts here
+(3/11/2019 2:41:20 PM) All browsers are opened
+(3/11/2019 2:41:24 PM) Operations have been performed
+(3/11/2019 2:41:29 PM) Bot execution stops here
