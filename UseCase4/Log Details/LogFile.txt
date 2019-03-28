@@ -1,5 +1,0 @@
-(3/11/2019 3:19:45 PM) Opening the browser and searching results for "automation anywhere"
-(3/11/2019 3:19:47 PM) Bot execution ends here
-(3/11/2019 3:21:04 PM) Bot execution starts here
-(3/11/2019 3:21:04 PM) Opening the browser and searching results for "automation anywhere"
-(3/11/2019 3:21:06 PM) Bot execution ends here
