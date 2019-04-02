@@ -1,0 +1,8 @@
+(3/28/2019 3:22:46 PM) Error Line : 4
+Error Description : Cannot find any open spreadsheet command using session name "S2"
+(3/28/2019 3:29:19 PM) Error Line : 4
+Error Description : Cannot find any open spreadsheet command using session name "S2"
+(3/28/2019 3:31:59 PM) Error Line : 16
+Error Description : Cannot find window or application titled 'SHA1 online - Internet Explorer' that was open during recording.
+(3/28/2019 3:35:59 PM) Error Line : 16
+Error Description : Cannot find window or application titled 'SHA1 online - Internet Explorer' that was open during recording.

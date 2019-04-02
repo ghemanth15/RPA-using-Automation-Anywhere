@@ -1,0 +1,2 @@
+(3/28/2019 2:36:32 PM) Error Line : 9
+Error Description : Cannot find window or application titled 'ACME System 1 - Account - Log In - Internet Explorer' that was open during recording.
